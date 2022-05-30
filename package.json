@@ -1,4 +1,7 @@
 {
+  "workspaces": [
+    "app/*"
+],
   "name": "nytt-strapi",
   "private": true,
   "version": "0.1.0",
